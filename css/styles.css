@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(183, 224, 224);
+    background-color: rgb(178, 214, 214);
 }
 
 hr {
@@ -8,4 +8,12 @@ hr {
     border-style: dotted none none;
     border-color: gray;
     border-width: 5px;
+}
+
+h1 {
+    color: #4ac5c5;
+}
+
+h3 {
+    color: #309494;
 }
